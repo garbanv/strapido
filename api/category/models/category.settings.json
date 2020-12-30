@@ -12,6 +12,10 @@
   "attributes": {
     "name": {
       "type": "string"
+    },
+    "posts": {
+      "via": "categories",
+      "collection": "post"
     }
   }
 }
